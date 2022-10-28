@@ -13,4 +13,12 @@ path = "2021/day01a/main.rs"
 
 [[bin]]
 name = "day01b"
-path = "2021/day01b//main.rs"
+path = "2021/day01b/main.rs"
+
+[[bin]]
+name = "day02a"
+path = "2021/day02a/main.rs"
+
+[[bin]]
+name = "day02b"
+path = "2021/day02b/main.rs"
